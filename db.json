@@ -1,0 +1,237 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In what sport is a &quot;shuttlecock&quot; used?",
+      "correct_answer": "Badminton",
+      "incorrect_answers": [
+        "Table Tennis",
+        "Rugby",
+        "Cricket"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which M83 album is the song &quot;Midnight City&quot; featured in?",
+      "correct_answer": "Hurry Up, We&#039;re Dreaming",
+      "incorrect_answers": [
+        "Saturdays = Youth",
+        "Before the Dawn Heals Us",
+        "Junk"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Furby was released in 1998.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Ashley Frangipane performs under the stage name Halsey.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the nickname of the US state of California?",
+      "correct_answer": "Golden State",
+      "incorrect_answers": [
+        "Sunshine State",
+        "Bay State",
+        "Treasure State"
+      ]
+    },
+    {
+      "category": "Entertainment: Board Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?",
+      "correct_answer": "Monopoly",
+      "incorrect_answers": [
+        "Pay Day",
+        "Cluedo",
+        "Coppit"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The average lifespan of a wildcat is only around 5-6 years. ",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How long was the World Record Speed Run of Valve Software&#039;s &quot;Half-Life&quot; that was done in 2014.",
+      "correct_answer": "20 Minutes, 41 Seconds",
+      "incorrect_answers": [
+        "45 Minutes, 32 Seconds",
+        "5 Minutes, 50 Seconds",
+        "12 Minutes, 59 Seconds"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Future Diary&quot;, what is the name of Yuno Gasai&#039;s Phone Diary?",
+      "correct_answer": "Yukiteru Diary",
+      "incorrect_answers": [
+        "Murder Diary",
+        "Escape Diary ",
+        "Justice Diary "
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who in Pulp Fiction says &quot;No, they got the metric system there, they wouldn&#039;t know what the fuck a Quarter Pounder is.&quot;",
+      "correct_answer": "Vincent Vega",
+      "incorrect_answers": [
+        "Jules Winnfield",
+        "Jimmie Dimmick",
+        "Butch Coolidge"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+      "correct_answer": "150",
+      "incorrect_answers": [
+        "200",
+        "100",
+        "155"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did the United States formally declare war on Japan, entering World War II?",
+      "correct_answer": "December 8, 1941",
+      "incorrect_answers": [
+        "June 6, 1944",
+        "June 22, 1941",
+        "September 1, 1939"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the smallest country in the world?",
+      "correct_answer": "Vatican City",
+      "incorrect_answers": [
+        "Maldives",
+        "Monaco",
+        "Malta"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In &quot;Doctor Who&quot;, the Doctor gets his TARDIS by stealing it.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the perk that was introduced in the &quot;Call Of Duty: Zombies&quot; map, &quot;Mob Of The Dead&quot;?",
+      "correct_answer": "Electric Cherry",
+      "incorrect_answers": [
+        "Quick Revive",
+        "Vulture Aid",
+        "Tombstone"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which of these TV shows did the chef Gordon Ramsay not appear?",
+      "correct_answer": "Auction Hunters",
+      "incorrect_answers": [
+        "Ramsay&#039;s Kitchen Nightmares",
+        "Hotel Hell",
+        "Hell&#039;s Kitchen"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Jewelpet Sunshine&quot;, what is the song that plays when Kanon and her friends bust out of prison?",
+      "correct_answer": "I Don&#039;t Want to Miss a Thing",
+      "incorrect_answers": [
+        "Eye Of The Tiger",
+        "Born to be Wild",
+        "Ruby Ring"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these songs is NOT in The Beatles&#039; album &quot;Sgt. Pepper&#039;s Lonely Hearts Club Band&quot;?",
+      "correct_answer": "Strawberry Fields Forever",
+      "incorrect_answers": [
+        "Getting Better",
+        "Fixing a Hole",
+        "Lucy in the Sky with Diamonds"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not in the Indo-European language family?",
+      "correct_answer": "Finnish",
+      "incorrect_answers": [
+        "English",
+        "Hindi",
+        "Russian"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Sid Meier&#039;s Civilization V, which World Wonder can only be built in cities on or next to a desert?",
+      "correct_answer": "Petra",
+      "incorrect_answers": [
+        "The Pyramids",
+        "Alhambra",
+        "Mausoleum of Maussollos"
+      ]
+    }
+  ]
+}
